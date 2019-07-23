@@ -8,13 +8,18 @@
 	},
 	"dependencies": {
 		"react": "16.0.0-alpha.6",
-		"react-native": "0.44.3"
+		"react-native": "0.44.3",
+		"react-native-tab-navigator": "^0.3.4",
+		"react-native-typescript-transformer": "^1.2.12"
 	},
 	"devDependencies": {
+		"@types/react": "^16.8.23",
+		"@types/react-native": "^0.60.2",
 		"babel-jest": "24.8.0",
 		"babel-preset-react-native": "4.0.1",
 		"jest": "24.8.0",
-		"react-test-renderer": "16.0.0-alpha.6"
+		"react-test-renderer": "16.0.0-alpha.6",
+		"typescript": "^3.5.3"
 	},
 	"jest": {
 		"preset": "react-native"
